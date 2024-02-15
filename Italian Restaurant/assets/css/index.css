@@ -1,0 +1,39 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,800;1,400;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url(./fonts.css);
+@import url(./modern-css-reset.css);
+@import url(./header.css);
+@import url(./products.css);
+@import url(./more-info.css);
+@import url(./discount.css);
+@import url(./pizza.css);
+@import url(./testimonials.css);
+@import url(./subscribe.css);
+@import url(./footer.css);
+@import url(./media-queries.css);
+
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+
+::placeholder{
+    opacity: 0.678;
+    font-size: 25px;
+    color: #54524f;
+    font-weight: 400;
+    font-family: "Open Sans";
+    padding-left: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: #343434;
+}
+

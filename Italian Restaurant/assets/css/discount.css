@@ -1,0 +1,72 @@
+.discount-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+    padding-top: 50px;
+}
+
+.discount-img-container{
+    flex: 1 1 40%;
+    padding-bottom: 60px;
+   
+}
+
+.discount-text-container{
+    flex: 1 1 40%;
+}
+
+.discount-img-one,.discount-img-two{
+    filter: drop-shadow(0px 50px 20px rgb(0, 0, 0, 0.5));
+}
+
+.discount-img-one{
+    padding-left: 30px;
+}
+
+.discount-img-two{
+    padding-right: 30px;
+}
+
+.discount-title{
+    font-size: 58px;
+    color: #27292c;
+    font-weight: 700;
+    font-family: "Open Sans";
+    padding-top: 110px;
+    line-height: normal;
+}
+
+.discount-text{
+    font-size: 29px;
+    color: #27292c;
+    font-weight: 400;
+    font-family: "Open Sans";
+    padding-top: 30px;
+   padding-bottom: 50px;
+   line-height: normal;
+}
+
+.discount-btn-container{
+padding-top: 0px;
+}
+
+.discount-btn{
+    font-size: 29px;
+    letter-spacing: 6px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Open Sans";
+    width: 334px;
+    height: 75px;
+    border-radius: 37px;
+    background-color: #27292c;
+   cursor: pointer;
+}
+
+.discount-btn.two{
+    font-size: 23px;
+    
+}
+

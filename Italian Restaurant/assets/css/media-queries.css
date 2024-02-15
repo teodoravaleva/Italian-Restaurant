@@ -1,0 +1,21 @@
+@media screen and (max-width: 1400px) {
+ .header-leaves{
+    display: none;
+ }
+ .header-bowl{
+    display: none;
+ }
+ .pizza-pizza{
+    display: none;
+ }
+ .pizza-leaves{
+    display: none;
+ }
+ .pizza-slice{
+   display: none;
+ }
+
+ .discount-btn{
+    margin-bottom: 20px;
+ }
+}
